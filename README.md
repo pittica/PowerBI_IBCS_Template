@@ -1,5 +1,7 @@
 # Power BI IBCS Template
 
+[![GitHub License](https://img.shields.io/github/license/pittica/PowerBI-IBCS-Template)](https://github.com/pittica/PowerBI-IBCS-Template/tree/main?tab=MIT-1-ov-file)
+
 Un modello Power BI progettato per mostrare **uno stile di reporting conforme allo standard IBCS®**, con focus su **chiarezza, coerenza e confronto immediato dei dati**.
 
 ---
