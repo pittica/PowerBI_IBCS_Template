@@ -47,14 +47,11 @@ Le regole grafiche applicate derivano dallo standard [IBCS®](https://www.ibcs.c
 - Font: Segoe UI
 - Layout ottimizzato per 16:9 (monitor e Power BI Service)
 
----
+## Author
 
-## Licenza
-Questo template è distribuito sotto licenza **MIT** — libero utilizzo con attribuzione.  
-Non contiene dati reali o sensibili.
+Luca Bennardo
+- [E-Mail](mailto:luca.bennardo@pittica.com)
+- [LinkedIn](https://www.linkedin.com/in/lucabennardo)
 
----
-
-## 👤 Autore
-**Pittica s.r.l.**  
-[LinkedIn](https://www.linkedin.com/in/lucabennardo) · [Portfolio BI](https://github.com/pittica/PowerBI_IBCS_Template))
+## Copyright
+Copyright 2025 **Pittica s.r.l.**. All rights reserved.
