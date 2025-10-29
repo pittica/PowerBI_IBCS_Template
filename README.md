@@ -56,5 +56,5 @@ Non contiene dati reali o sensibili.
 ---
 
 ## 👤 Autore
-**Luca Bennardo**  
+**Pittica s.r.l.**  
 [LinkedIn](https://www.linkedin.com/in/lucabennardo) · [Portfolio BI](https://github.com/pittica/PowerBI_IBCS_Template))
